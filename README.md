@@ -1,1 +1,1 @@
-# Number-Sequence-Prediction
+# Number-Sequence-Predictor
